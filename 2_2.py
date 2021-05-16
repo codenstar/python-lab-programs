@@ -9,7 +9,7 @@ Original file is located at
 
 import sys
 a=int(sys.argv[1]) #5
-b=int(sys.srgv[2]) #4
+b=int(sys.argv[2]) #4
 print("sum is",a+b) #9
 print("difference is",a-b) #1
 print("product is ",a*b)   #20
