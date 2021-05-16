@@ -8,5 +8,5 @@ Original file is located at
 """
 
 a=5
- b=6
+b=6
 print(a,b)
