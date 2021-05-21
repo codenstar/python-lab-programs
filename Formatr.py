@@ -15,8 +15,8 @@ print("oct %o"%(a))
 #outputHello CSE-A !How are you?
 Age is 19
 Hello CSE-A !Your Age is 19
-Hello CSE-A !Your Age is 19 and your grade is 8.90
-hexa 41
-hexa 41
-char A
-oct 101
+Hello CSE-A !Your Age is 19 and your grade is 8.30
+hexa 42
+hexa 42
+char B
+oct 102
